@@ -23,6 +23,7 @@ And yes, my desk is always a mess.
 * PostgreSQL, Doctrine, API Platform
 * PHPUnit, functional & integration testing
 * Also working with Laravel, NodeJS & NestJS
+* Also working with Spring Data JPA & Kotlin
 
 ### Frontend & Mobile
 
