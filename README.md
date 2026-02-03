@@ -16,7 +16,7 @@ And yes, my desk is always a mess.
 
 ## 🚀 What I Do
 
-### 🧠 Backend Engineering
+### Backend Engineering
 
 * PHP / Symfony
 * RESTful APIs, GraphQL, domain-driven design
@@ -24,24 +24,25 @@ And yes, my desk is always a mess.
 * PHPUnit, functional & integration testing
 * Also working with Laravel, NodeJS & NestJS
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 
 * TypeScript, Angular, Ionic, PWA
 * Vue, React, Electron
 * Kotlin Jetpack Compose
 * Flutter
+* Usage of native components like BLE / Camera / Geoloc / ... 
 * Responsive UI with Material & Tailwind
 * RxJS, NX monorepos
 * Jest, Karma, modern build pipelines
 
-### ⚙️ DevOps & Quality
+### DevOps & Quality
 
 * Docker, Kubernetes
 * Jenkins, GitHub Actions
 * Git, Linux, macOS
 * PHP CS Fixer, ESLint, CI pipelines
 
-### 📋 Product & Project
+### Product & Project
 
 * Agile methods (Scrum & Kanban)
 * Sprint planning, backlog, roadmaps
@@ -52,7 +53,7 @@ And yes, my desk is always a mess.
 
 ## 🌱 Currently
 
-👨‍💻 TBA...
+TBA...
 
 ## 💼 Previous Adventures
 
@@ -86,14 +87,11 @@ I worked on a wide range of B2B products:
 ## 🎮 Side Quests
 
 * 🕹 Unity: I’m currently building a **multiplayer mobile game** using **Unity + Netcode**.
-* 📱 Mobile apps are more and more fun to play with, I'm enjoying developping and learning with **Kotlin JetpackCompose** (And a bit of **Flutter**)
-* 🎵 I’m a **multi-instrumentalist** (guitar, vocals, piano) and have been playing in several bands and music projects for over 15 years. I also do:
-  ** Recording & music production (DAW / MAO)
-  ** Organizing concerts & tours
-  
+* 📱 Mobile apps are more and more fun to play with, I'm enjoying developping and learning with **Kotlin Jetpack Compose** (And a bit of **Flutter**)
+* 🎵 I’m a **multi-instrumentalist** (guitar, vocals, piano) and have been playing in several bands and music projects for over 15 years. I also do record & music production (DAW / MAO) & Organizing concerts & tours
 
 
 ## 🙌 Let’s Connect
 
-* 📫 **Email**: [contact.julienmarie@gmail.com](mailto:contact.julienmarie@gmail.com)
-* 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/julien-marie-33b8b016b)
+* **Email**: [contact.julienmarie@gmail.com](mailto:contact.julienmarie@gmail.com)
+* **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/julien-marie-33b8b016b)
