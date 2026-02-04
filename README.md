@@ -65,7 +65,7 @@ TBA...
 Working on:
 
 * Vue / React / Electron frontends
-* Kotlin + Jetpack Compose mobile apps
+* Kotlin + Jetpack Compose / Flutter native mobile apps
 * Symfony & API Platform backends
 * Architecture audits, refactoring & modernization
 * Internal trainings & technical documentation
